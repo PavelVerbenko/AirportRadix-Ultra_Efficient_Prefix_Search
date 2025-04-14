@@ -1,0 +1,32 @@
+{
+  "initTime": 182,
+  "result": [
+    {
+      "search": "Bow",
+      "result": [
+        3998,
+        5774,
+        3386
+      ],
+      "time": 98
+    },
+    {
+      "search": "Asa",
+      "result": [
+        6575,
+        2201,
+        7052,
+        2037
+      ],
+      "time": 122
+    },
+    {
+      "search": "Ret",
+      "result": [
+        1714,
+        509
+      ],
+      "time": 3
+    }
+  ]
+}
